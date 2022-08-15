@@ -1,6 +1,7 @@
 # PengalamanBelajar
-Repository ini berisi progres belajarku bersama Dicoding dalam program Kampus Merdeka Studi Independen batch 3
 ==
+Repository ini berisi progres belajarku bersama Dicoding dalam program Kampus Merdeka Studi Independen batch 3
+--
 1 Agustus 2022
 Pengenalan ke Logika Pemrograman (Progres 50%)
 -Pengenalan istilah logika dan algoritma dan jenis-jenis logika pemrograman dasar

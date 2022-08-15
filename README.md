@@ -20,3 +20,9 @@ Pengenalan ke Logika Pemrograman (Progres 100%)
 Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (Progres 40%)
 - Memahami Kebutuhan Aplikasi : Belajar teori dan metodologi dalam memahami kebutuhan aplikasi dari sisi pengguna beserta dari sisi spesifikasi teknis aplikasi.
 - Perencanaan Modifikasi Aplikasi : Belajar teori dan metodologi dalam pembuatan persyaratan kebutuhan aplikasi, dalam memahami cara aplikasi bekerja, dan dalam mengerti panduan diagram alur. 
+
+4 Agustus 2022
+
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (Progres 40%)
+- Mengerti Konsep Dasar Pemrograman : Belajar teori sintaksis bahasa pemrograman, variabel, tipe data, logika komputer, dan bahasa pemrograman JavaScript versi ES6.
+- Modifikasi Aplikasi Perangkat Lunak : Belajar bahasa markah HTML versi HTML5 dan bahasa pemrograman CSS versi 3. Implementasi keterampilan melalui studi kasus modifikasi sebuah antarmuka aplikasi perangkat lunak.
